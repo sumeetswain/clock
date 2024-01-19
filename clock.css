@@ -1,0 +1,22 @@
+body {
+  font-family: "Bungee", sans-serif;
+  background-color: #5a5353;
+  color: #e6ccbe;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.image {
+  height: 25rem;
+  width: 25rem;
+  border: 1px solid #e6ccbe;
+  margin-bottom: 10px;
+}
+
+#party {
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
